@@ -1,4 +1,4 @@
-# Hi there, I'm Hooman 👋
+# Hi there, I'm Homan 👋
 
 I'm a Mobile Developer specializing in native Android and iOS development.
 
@@ -45,9 +45,9 @@ I enjoy building clean, scalable, and user-friendly mobile applications using mo
 
 ## 📊 GitHub Stats
 
-![Hooman's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Hooman's GitHub stats](https://github-readme-stats.vercel.app/api?username=HomanYosefi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HomanYosefi&layout=compact&theme=tokyonight)
 
 ---
 
