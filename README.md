@@ -40,47 +40,8 @@ I enjoy building clean, scalable, and user-friendly mobile applications using mo
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 Android
-
-#### Movie App
-A modern Android application for browsing movies and viewing detailed information.
-
-**Tech Stack:** Kotlin, Jetpack Compose, MVVM, Retrofit, Room, Coroutines, Hilt
-
-[View Repository](https://github.com/your-username/movie-app)
-
 ---
 
-#### Task Manager App
-A task management application with local persistence and clean UI.
-
-**Tech Stack:** Kotlin, Jetpack Compose, Room, Flow, Clean Architecture
-
-[View Repository](https://github.com/your-username/task-manager)
-
----
-
-### 🍎 iOS
-
-#### Weather App
-A native iOS weather application with clean UI and API integration.
-
-**Tech Stack:** Swift, SwiftUI, MVVM, URLSession, Combine
-
-[View Repository](https://github.com/your-username/weather-ios)
-
----
-
-#### Notes App
-A simple and polished notes application built with SwiftUI.
-
-**Tech Stack:** Swift, SwiftUI, Core Data, MVVM
-
-[View Repository](https://github.com/your-username/notes-ios)
-
----
 
 ## 📊 GitHub Stats
 
@@ -92,9 +53,9 @@ A simple and polished notes application built with SwiftUI.
 
 ## 📫 Contact
 
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- Telegram: @your_username
+- Email: homanyosefica@gmail.com
+- LinkedIn: https://linkedin.com/in/homan-yosefi
+- Telegram: @HY1_lnc
 
 ---
 
